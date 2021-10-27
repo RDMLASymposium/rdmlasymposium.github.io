@@ -1,19 +1,18 @@
 # Site settings
-title: RDMLA Symposium
+title: RDMLA
 email: rdmla.help@gmail.com
-logo: 
 description: >
- The RDMLA Symposium is a one-day event open to anyone who is interested in learning more about the unexplored gaps and margins in our understanding and use of data.
-url: "https://rdmlasymposium.github.io/"
+ Research Data Management Librarian Academy: Exploring and providing research data management training for librarians.
+url: "https://rdmla.github.io/"
 
 # Social links
-github_username:  RDMLASymposium
+github_username:  RDMLA
 twitter_username: The_RDMLA
 facebook_username: TheRDMLA
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 
 # plugins
 plugins:
