@@ -1,13 +1,13 @@
 # Site settings
 title: RDMLA Symposium
 email: rdmla.help@gmail.com
-logo:
+logo: !(/images/logos/rdmlasymposium_logo_300px.png)
 description: >
  The Research Data Management Librarian Academy (RDMLA) Symposium is a one day event open to anyone who is interested in learning more about the unexplored gaps and margins in our understanding and use of data.
 url: "https://rdmlasymposium.github.io/"
 
 # Social links
-github_username:  RDMLA
+github_username:  RDMLASymposium
 twitter_username: The_RDMLA
 facebook_username: TheRDMLA
 
