@@ -22,13 +22,17 @@ The Symposium will be held on **Friday, April 22, 2022** at the Countway Library
 #### Symposium FAQs
 
 *When is the RDMLA Symposium?* 
+
 The RDMLA Symposium will be held on Friday, April 22, 2022, 9:00 a.m. ET/UTC-4 to 4:30 p.m. ET/UTC-4. This will be a hybrid event, held simultaneously online and at the Countway Library of Medicine at Harvard Medical School in Boston, Massachusetts. 
 
 *How much does the Symposium cost?* 
+
 The RDMLA Symposium aims to keep the cost of the event low so that it is accessible to anyone who would like to participate. Virtual registration costs **$10 USD**; in-person registration is **$30 USD** (cost includes lunch and refreshments).
 
 *Can I submit a proposal?*
+
 YES, please do! Symposium CFP will open on December 1, 2021 and be open until January 31, 2022. More information is forthcoming and can be found under the 'Call for Proposal' tab.
 
 *I would like to sponor the Symposium.*
+
 Thank you so much for your generosity! Please email Ashley Thomas, RDMLA Coordinator, at rdmla.help@gmail.com for more information.
