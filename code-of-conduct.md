@@ -5,4 +5,6 @@ permalink: /code-of-conduct/
 redirect_from: /home/code-of-conduct/
 ---
 
-<p>If you are interested in the RDMLA or have any questions please contact us!</p>
+The RDMLA Symposium Code of Conduct will be published soon, please check back for updates.
+
+<p align="center"><img src="/images/logos/rdmlasymposium_logo_300px.png" alt="RDMLA Symposium Logo"></p>
