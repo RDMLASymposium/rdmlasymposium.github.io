@@ -5,4 +5,6 @@ permalink: /cfp/
 redirect_from: /home/cfp/
 ---
 
-<p>If you are interested in the RDMLA or have any questions please contact us!</p>
+!(/images/logos/rdmlasymposium_logo_300px.png) 
+
+More information regarding submitting proposals for the RDMLA Symposium is forthcoming! Please check back soon!
