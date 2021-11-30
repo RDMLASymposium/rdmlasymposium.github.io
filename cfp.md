@@ -38,7 +38,7 @@ All proposals need to be submitted through the submission [form](https://hms.az1
 
 **Rubric**
 
-The proposal grading rubric is available here.
+The proposal grading rubric is available [here](rdmlasymposium.github.io/forms/RDMLA Symposium Proposal Grading Rubric.pdf).
 
 
 <br>
