@@ -14,8 +14,7 @@ The RDMLA is a global community of practice brought together through the online 
 
 Mark your calendars for Friday, April 22, 2022! Poster and panel proposal submissions open on December 1, 2021.
 
-*Note: The Planning Committee is closely monitoring the ongoing COVID-19 pandemic and will comply with (and enforce) all federal, state, local, and institutional mandates. Should the Symposium need to move to a fully virtual platform, the Committee will inform all presenters as soon as possible to allow time to make adjustments to presentations.*
-
+*Note: The Planning Committee is closely monitoring the ongoing COVID-19 pandemic and will comply with (and enforce) all federal, state, local, and institutional mandates. Should the Symposium need to move to a fully virtual platform, the Committee will make that announcement as early as possible.*
 <br>
 
 __
