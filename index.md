@@ -12,7 +12,9 @@ The **Research Data Management Librarian Academy Symposium** (**RDMLA**) is a on
 
 The RDMLA is a global community of practice brought together through the online professional development program for librarians, information professionals, and other professionals who work in a research-intensive environment. RDMLA features a unique partnership between a library and information science academic program, global academic health sciences and research libraries, U.S. government agencies, non-profit organizations, and a data analytics company. To further engage our community, the RDMLA symposium aims to discuss trending and timely topics in RDM.
 
-Mark your calendars for Friday, April 22, 2022, and stay tuned for a call for proposals coming soon!
+Mark your calendars for Friday, April 22, 2022! Poster and panel proposal submissions open on December 1, 2021.
+
+*Note: The Planning Committee is closely monitoring the ongoing COVID-19 pandemic and will comply with (and enforce) all federal, state, local, and institutional mandates. Should the Symposium need to move to a fully virtual platform, the Committee will inform all presenters as soon as possible to allow time to make adjustments to presentations.*
 
 <br>
 
