@@ -25,16 +25,19 @@ Presenters are encouraged to critically engage with the inherent power and syste
 All submissions will be reviewed via a blind peer review.
  
 **Timeline**
+
   - Proposal submission window: December 1, 2021 through January 31, 2022
   - Decisions sent out by: February 18, 2022
   - Deadline to accept: March 4, 2022
  
 **Submit**
+
 Submissions require the contact information for all presenters, proposal type, title, and structured abstract (no more than 1000 words). Structured abstracts include Background, Description, and Conclusions. Research submissions should include Objectives, Methods, Results, and Conclusions.
  
 All proposals need to be submitted through the submission [form](https://hms.az1.qualtrics.com/jfe/form/SV_3lxOmAb8Dl5OJv0).
 
 **Rubric**
+
 The proposal grading rubric is available here.
 
 
