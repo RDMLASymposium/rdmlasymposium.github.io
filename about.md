@@ -31,7 +31,7 @@ The RDMLA Symposium aims to keep the cost of the event low so that it is accessi
 
 *Can I submit a proposal?*
 
-YES, please do! Symposium CFP will open on December 1, 2021 and be open until January 31, 2022. More information is forthcoming and can be found under the 'Call for Proposal' tab.
+YES, please do! Symposium CFP will open on December 1, 2021 and be open until January 31, 2022. Please visit the 'Call for Proposal' tab for more information and the submission form.
 
 *I would like to sponor the Symposium.*
 
