@@ -32,7 +32,7 @@ All submissions will be reviewed via a blind peer review.
 **Submit**
 Submissions require the contact information for all presenters, proposal type, title, and structured abstract (no more than 1000 words). Structured abstracts include Background, Description, and Conclusions. Research submissions should include Objectives, Methods, Results, and Conclusions.
  
-All proposals need to be submitted through the submission form.
+All proposals need to be submitted through the submission [form](https://hms.az1.qualtrics.com/jfe/form/SV_3lxOmAb8Dl5OJv0).
 
 **Rubric**
 The proposal grading rubric is available here.
