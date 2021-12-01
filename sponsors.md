@@ -11,17 +11,20 @@ redirect_from: /home/sponsors/
 
 #### 2022 Symposium Sponsors
 
-##### Premier Sponsor
+#### Premier Sponsor
 
 <table>
-  <tr><td rowspan="1" width="30%"><img src="/images/host_logos/Elsevier.png" alt="Elsevier Logo"></td></tr>
+  <tr><td rowspan="1" width="30%"></td>
+    <td rowspan="1" width="30%"><img src="/images/host_logos/Elsevier.png" alt="Elsevier Logo"></td>
+    <td rowspan="1" width="30%"></td></tr>
 </table>
 
-##### Data Sponsors
+#### Data Sponsors
 
 <table>
   <tr><td rowspan="1" width="30%"><img src="/images/sponsor_logos/NEASIST.jpeg" alt="NEASIST Logo"></td>
-    <td rowspan="1" width="30%"><img src="/images/sponsor_logos/simmons_slis_logo.png" alt="Simmons University SLIS Logo"></td></tr>
+    <td rowspan="1" width="30%"><img src="/images/sponsor_logos/simmons_slis_logo.png" alt="Simmons University SLIS Logo"></td>
+    <td rowspan="1" width="30%"></td></tr>
 </table>
 
 <br>
