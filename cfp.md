@@ -25,7 +25,7 @@ Presenters are encouraged to critically engage with the inherent power and syste
  
 All submissions will be reviewed via a blind peer review.
  
-**Timeline**
+**Important Dates**
 
   - Proposal submission window: December 1, 2021 through January 31, 2022
   - Decisions sent out by: February 18, 2022
