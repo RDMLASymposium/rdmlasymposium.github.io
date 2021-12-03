@@ -29,10 +29,18 @@ redirect_from: /home/sponsors/
 
 <br>
 
-#### 2022 Symposium Hosts
+#### 2022 Symposium Host
 
 <table>
-  <tr><td rowspan="1" width="30%"><img src="/images/host_logos/Updated RDMLA Logo - Blue.png" alt="RDMLA Logo"></td>
+  <tr><td rowspan="1" width="30%"></td>
     <td rowspan="1" width="30%"><img src="/images/host_logos/countwaylibrary_logo.png" alt="Countway Library Logo"></td>
+    <td rowspan="1" width="30%"></td></tr>
+</table>
+
+#### 2022 Symposium Organizer
+
+<table>
+  <tr><td rowspan="1" width="30%"></td>
+    <td rowspan="1" width="30%"><img src="/images/host_logos/Updated RDMLA Logo - Blue.png" alt="RDMLA Logo"></td>
     <td rowspan="1" width="30%"></td></tr>
 </table>
