@@ -8,13 +8,13 @@ redirect_from: /home/
 
 <br>
 
-The **Research Data Management Librarian Academy Symposium** (**RDMLA**) is a one-day event open to anyone who is interested in learning more about the unexplored gaps and margins in our understanding and use of data, how data is used to define the borders/boundaries of communities, the ways the use of data legitimizes and delegitimizes certain viewpoints, and the consequences of the ways we define, process, code, and analyze data.
+The **Research Data Management Librarian Academy Symposium** (**RDMLA**) is a one-day virtual event open to anyone who is interested in learning more about the unexplored gaps and margins in our understanding and use of data, how data is used to define the borders/boundaries of communities, the ways the use of data legitimizes and delegitimizes certain viewpoints, and the consequences of the ways we define, process, code, and analyze data.
 
 The RDMLA is a global community of practice brought together through the online professional development program for librarians, information professionals, and other professionals who work in a research-intensive environment. RDMLA features a unique partnership between a library and information science academic program, global academic health sciences and research libraries, U.S. government agencies, non-profit organizations, and a data analytics company. To further engage our community, the RDMLA symposium aims to discuss trending and timely topics in RDM.
 
-Mark your calendars for Friday, April 22, 2022! Poster and panel proposal submissions open on December 1, 2021.
+Mark your calendars for Friday, April 22, 2022! Poster and panel proposal submissions are open.
 
-*Note: The Planning Committee is closely monitoring the ongoing COVID-19 pandemic and will comply with (and enforce) all federal, state, local, and institutional mandates. Should the Symposium need to move to a fully virtual platform, the Committee will make that announcement as early as possible.*
+*Note: Due to the ongoing COVID-19 pandemic the Planning Committee had opted to move the Symposium to a completely virtual event.*
 <br>
 
 __
