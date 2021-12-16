@@ -18,10 +18,10 @@ Presenters are encouraged to critically engage with the inherent power and syste
  
 **Types of Proposals**
   - Discussion Panel – 45 minutes
-    - Propose a moderated three-to-four-person panel that will engage in live conversation with each other and with Symposium attendees on a topic relating to the year’s theme. Proposals must include a moderator, proposed panelists, and three example questions that might be discussed. Both in-person and virtual panel proposals will be accepted. If opting to present virtually, please indicate how you will engage both in-person and virtual attendees.
+    - Propose a moderated three-to-four-person panel that will engage in live conversation with each other and with Symposium attendees on a topic relating to the year’s theme. Proposals must include a moderator, proposed panelists, and three example questions that might be discussed.
 
   - Poster
-    - Propose a poster (either research or program-oriented) that will be presented both in-person and virtually. Poster presenters will have the opportunity to chat one-on-one with Symposium attendees during the lunch break, reception, and through the conference platform. Please indicate on your proposal whether the poster will be presented in person or online. 
+    - Propose a poster (either research or program-oriented) that will be presented virtually. Poster presenters will have the opportunity to chat one-on-one with Symposium attendees during breaks through the conference platform. 
  
 All submissions will be reviewed via a blind peer review.
  
