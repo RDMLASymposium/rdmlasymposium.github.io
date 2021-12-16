@@ -13,9 +13,9 @@ The Research Data Management Academy (RDMLA) is a global, free online profession
 
 #### What is the RDMLA Symposium?
 
-The RDMLA Symposium is a way to further engage the RDMLA community and to discuss trending and timely topics in RDM. This one-day event is open to anyone who is interested in learning more about the unexplored gaps and margins in our understanding and use of data, how data is used to define the borders/boundaries of communities, the ways the use of data legitimizes and delegitimizes certain viewpoints, and the consequences of the ways we define, process, code, and analyze data.
+The RDMLA Symposium is a way to further engage the RDMLA community and to discuss trending and timely topics in RDM. This one-day virtual event is open to anyone who is interested in learning more about the unexplored gaps and margins in our understanding and use of data, how data is used to define the borders/boundaries of communities, the ways the use of data legitimizes and delegitimizes certain viewpoints, and the consequences of the ways we define, process, code, and analyze data.
 
-The Symposium will be held on **Friday, April 22, 2022** at the Countway Library of Medicine and virtually. The meeting is generously hosted by RDMLA, Countway Library of Medicine at Harvard Medical School, and Elsevier. 
+The Symposium will be held virtually on **Friday, April 22, 2022**. The meeting is generously hosted by RDMLA and Countway Library of Medicine at Harvard Medical School. 
 
 <br>
 
@@ -23,11 +23,11 @@ The Symposium will be held on **Friday, April 22, 2022** at the Countway Library
 
 *When is the RDMLA Symposium?* 
 
-The RDMLA Symposium will be held on Friday, April 22, 2022, 9:00 a.m. ET/UTC-4 to 4:30 p.m. ET/UTC-4. This will be a hybrid event, held simultaneously online and at the Countway Library of Medicine at Harvard Medical School in Boston, Massachusetts. 
+The RDMLA Symposium will be held on Friday, April 22, 2022, beginning at 9:00 a.m. ET/UTC-4. This will be a virtual event. 
 
 *How much does the Symposium cost?* 
 
-The RDMLA Symposium aims to keep the cost of the event low so that it is accessible to anyone who would like to participate. Virtual registration costs **$10 USD**; in-person registration is **$30 USD** (cost includes lunch and refreshments).
+The RDMLA Symposium aims to keep the cost of the event low so that it is accessible to anyone who would like to participate. Virtual registration costs **$10 USD**.
 
 *Can I submit a proposal?*
 
