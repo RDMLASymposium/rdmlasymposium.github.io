@@ -23,15 +23,15 @@ The Symposium will be held virtually on **Friday, April 22, 2022**. The meeting 
 
 *When is the RDMLA Symposium?* 
 
-The RDMLA Symposium will be held on Friday, April 22, 2022, beginning at 9:00 a.m. ET/UTC-4. This will be a virtual event. 
+The RDMLA Symposium will be held on Friday, April 22, 2022, beginning at 10:00 a.m. ET/UTC-4. This will be a virtual event. 
 
 *How much does the Symposium cost?* 
 
-The RDMLA Symposium aims to keep the cost of the event low so that it is accessible to anyone who would like to participate. Virtual registration costs **$10 USD**.
+The RDMLA Symposium aims to keep the cost of the event low so that it is accessible to anyone who would like to participate. Registration costs **$5 USD**. Registration for students and retirees is free.
 
 *Can I submit a proposal?*
 
-YES, please do! Symposium CFP will open on December 1, 2021 and be open until January 31, 2022. Please visit the 'Call for Proposal' tab for more information and the submission form.
+YES, please do! Symposium CFP will open on December 1, 2021 and be open until February 28, 2022. Please visit the 'Call for Proposal' tab for more information and the submission form.
 
 *I would like to sponor the Symposium.*
 
