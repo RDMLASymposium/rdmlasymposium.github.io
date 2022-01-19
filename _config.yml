@@ -13,7 +13,7 @@ facebook_username: TheRDMLA
 
 # Build settings
 markdown: kramdown
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: minima
 
 # plugins
 plugins:
