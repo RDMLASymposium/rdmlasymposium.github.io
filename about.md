@@ -13,7 +13,7 @@ The Research Data Management Academy (RDMLA) is a global, free online profession
 
 #### What is the RDMLA Symposium?
 
-The RDMLA Symposium is a way to further engage the RDMLA community and to discuss trending and timely topics in RDM. This one-day virtual event is open to anyone who is interested in learning more about the unexplored gaps and margins in our understanding and use of data, how data is used to define the borders/boundaries of communities, the ways the use of data legitimizes and delegitimizes certain viewpoints, and the consequences of the ways we define, process, code, and analyze data.
+The RDMLA Symposium is a way to further engage the RDMLA community and to discuss trending and timely topics in RDM, with the inaugural theme “_Data and Communities: Intersections of Truth, Silence, Access, and Identity_.” This one-day virtual event is open to anyone who is interested in learning more about the unexplored gaps and margins in our understanding and use of data, how data is used to define the borders/boundaries of communities, the ways the use of data legitimizes and delegitimizes certain viewpoints, and the consequences of the ways we define, process, code, and analyze data.
 
 The Symposium will be held virtually on **Friday, April 22, 2022**. The meeting is generously hosted by RDMLA and Countway Library of Medicine at Harvard Medical School. 
 
