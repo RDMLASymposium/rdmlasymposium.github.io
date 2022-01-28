@@ -27,7 +27,7 @@ The RDMLA Symposium will be held on Friday, April 22, 2022, beginning at 10:00 a
 
 *How much does the Symposium cost?* 
 
-The RDMLA Symposium aims to keep the event accessible to anyone who would like to participate. Registration is **free** but is **required**. Register today here (https://whova.com/portal/registration/rdmla_202108/)
+The RDMLA Symposium aims to keep the event accessible to anyone who would like to participate. Registration is **free** but is **required**. Register today for the Symposium <a href="https://whova.com/portal/registration/rdmla_202108/" target="_blank">here</a>.
 
 *Can I submit a proposal?*
 
