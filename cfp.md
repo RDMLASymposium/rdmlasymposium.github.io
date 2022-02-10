@@ -23,6 +23,8 @@ Presenters are encouraged to critically engage with the inherent power and syste
   - Poster
     - Propose a poster (either research or program-oriented) that will be presented virtually. Poster presenters will have the opportunity to chat one-on-one with Symposium attendees during breaks through the conference platform. 
  
+All submissions need to be submitted in English.
+
 All submissions will be reviewed via a blind peer review.
  
 **Important Dates**
