@@ -19,6 +19,25 @@ The Symposium will be held virtually on **Friday, April 22, 2022**. The meeting 
 
 <br>
 
+#### Symposium Leadership and Committee Members
+
+*RDMLA Leadership*: 
+  - Elaine Martin, D.A., Director and Chief Administrative Officer, Countway Library of Medicine, Harvard Medical School
+  - Rong Tang, Ph.D., Professor, Simmons University, School of Library and Information Science
+  - Gwen Evans, Vice President, Global Library Relations, Elsevier
+
+*RDMLA Symposium Planning Committee*:
+  - Andrew Creamer, Brown University Library
+  - A’Llyn Ettien, Alumni Medical Library, Boston University
+  - Ashley Thomas, Countway Library of Medicine, Harvard Medical School
+  - Danielle Pollock, School of Library and Information Science, Simmons University
+  - Danielle Westmark, McGoogan Health Sciences Library, University of Nebraska Medical Center
+  - Iris Jahng, Countway Library of Medicine, Harvard Medical School
+  - Rebecca Morin, Hirsh Health Sciences Library, Tufts University
+  - Scott Lapinski, Countway Library of Medicine, Harvard Medical School
+
+<br>
+
 #### Symposium FAQs
 
 *When is the RDMLA Symposium?* 
