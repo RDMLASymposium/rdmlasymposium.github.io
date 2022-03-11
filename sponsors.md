@@ -19,7 +19,15 @@ redirect_from: /home/sponsors/
     <td rowspan="1" width="30%"></td></tr>
 </table>
 
-#### Data Sponsors
+#### Information Level Sponsors
+
+<table>
+  <tr><td rowspan="1" width="30%"></td>
+    <td rowspan="1" width="30%"><img src="/images/sponsor_logos/NEJMGroup_Logo.jpeg" alt="NEJM Group Logo"></td>
+    <td rowspan="1" width="30%"></td></tr>
+</table>
+
+#### Data Level Sponsors
 
 <table>
   <tr><td rowspan="1" width="30%"><img src="/images/sponsor_logos/NEASIST.jpeg" alt="NEASIST Logo"></td>
