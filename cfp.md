@@ -29,8 +29,8 @@ All submissions will be reviewed via a blind peer review.
  
 **Important Dates**
 
-  - Proposal submission window: December 1, 2021 through March 15, 2022
-  - Decisions sent out by: March 25, 2022
+  - Proposal submission window: December 1, 2021 through ~~March 15, 2022~~ **March 25, 2022**
+  - Decisions sent out by: April 1, 2022
   - Deadline to accept: April 8, 2022
  
 **Submit**
