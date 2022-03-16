@@ -11,7 +11,7 @@ The schedule will be updated closer to the event with presentation titles and sp
 
 **_Symposium Agenda/Schedule: (all times ET/UTC-4)_** <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T100000&p1=43" target="_blank">What time is this for me?</a>
   - 10:00 to 10:15 – _Opening Remarks and Welcome_
-  - 10:15 to 11:30 – _Session #1_
+  - 10:15 to 11:30 – _Keynote Speaker with Q&A_
   - 11:30 to 12:30 – _Lunch Break and Poster Presentations_
   - 12:30 to 1:30 – _Session #2_
   - 1:30 to 1:45 – _Break / Swag Raffle_
