@@ -17,6 +17,7 @@ The schedule will be updated closer to the event with presentation titles and sp
     - "Data Literacy Training Elements" - Svitlana Chukanova, Ph.D.
     - "Patterns of Community-based Data in the U.S. State-level COVID-19 Dashboards: Groupings, Discrepancies, and Gaps" - Zhan Hu, Yishan Zhang, and Rong Tang, Ph.D.
     - "Online Research Data Management Education During a Global Pandemic: Trends and Lessons Learned" - Julie Goldman and Kai Fay 
+    - "Developing Consensus: Preliminary Insights on Expert Knowledge Negotiations" - David Stokes
   - 12:30 to 1:30 – _Panel Session #1: Confronting Consequences of Colonialism in Research and Evaluation Approaches_
     - Speakers: Asih Asikin-Garmager, Ph.D., Rima Afifi, Ph.D., and Hacer Karamese; Moderator: Susan Wolfe, Ph.D. 
   - 1:30 to 1:45 – _Break / Swag Raffle_
