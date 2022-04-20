@@ -26,7 +26,7 @@ RDMLA is dedicated to providing a safe and respectful experience at the Symposiu
  
 Any participant engaging in harassing behavior may be warned and/or asked to leave by the Symposium Planning Committee members.
  
-If you are being harassed, observe another participant being harassed, or have any other concerns, please contact the RDMLA Symposium Planning Committee at rdmla.help@gmail.com. You may email the committee members for less urgent matters or submit an anonymous online form should you feel uncomfortable reaching out in person. All reports and inquiries will be handled in confidence.
+If you are being harassed, observe another participant being harassed, or have any other concerns, please contact the RDMLA Symposium Planning Committee at rdmla.help@gmail.com. You may email the committee members for less urgent matters or submit an <a href="https://hms.az1.qualtrics.com/jfe/form/SV_cMbBUDWwiiEsnAO" target="_blank">anonymous online form</a> should you feel uncomfortable reaching out in person. All reports and inquiries will be handled in confidence.
  
 Questions? Please contact us at rdmla.help@gmail.com.
 
