@@ -4,7 +4,7 @@ redirect_from: /home/
 ---
 
 
-<p align="center"><img src="/photos/dseeclogo_horizontal_medium.png" alt="dseec_logo"></p>
+<p align="center"><img src="/images/logos/rdmlasymposium_logo_600px.png" alt="RDMLA Symposium Logo"></p>
 
 <br>
 
